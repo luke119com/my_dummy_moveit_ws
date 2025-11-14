@@ -1,0 +1,20 @@
+# ROS 2 / colcon build workspace
+build/
+install/
+log/
+
+# Python caches
+__pycache__/
+*.pyc
+*.pyo
+
+# CMake / Make build artifacts
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# VSCode / IDE settings (optional，可依需要刪掉)
+.vscode/
+.idea/
+
